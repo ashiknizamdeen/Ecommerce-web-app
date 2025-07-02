@@ -1,6 +1,6 @@
 # Retail Ridge - Fashion & Lifestyle E-commerce Store
 
-![Retail Ridge Hero Section](https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=1200&h=800&fit=crop)
+![Retail Ridge Hero Section](./assets/screenshot.png)
 
 ## Table of Contents
 
