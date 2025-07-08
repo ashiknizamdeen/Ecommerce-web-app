@@ -4,7 +4,7 @@
 
 ## 📱 Live Demo
 
-[View Live Demo](https://retail-ridge.netlify.app/)
+[Check out Live Demo](https://retail-ridge.netlify.app/)
 
 ## Table of Contents
 
