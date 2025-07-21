@@ -95,3 +95,6 @@ You only need a modern web browser to view and interact with this project. No sp
     *   Remove items using the "Remove" button.
 *   **Checkout:** Click "Proceed to Checkout" in the cart summary to see a simulated checkout message.
 *   **Mobile Menu:** On smaller screens, a hamburger icon (☰) will appear. Click it to toggle the navigation menu.
+
+
+**Made with ❤️ by Ashik**
