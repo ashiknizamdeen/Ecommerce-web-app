@@ -18,7 +18,7 @@
 
 ## About the Project
 
-Retail Ridge is a modern, responsive, and user-friendly e-commerce website designed for fashion and lifestyle products. It features a clean design, product filtering, and an interactive shopping cart experience. Built entirely with HTML, CSS, and JavaScript, this project demonstrates fundamental front-end development skills without relying on external frameworks or libraries.
+The Retail Ridge is a modern, responsive, and user-friendly e-commerce website designed for fashion and lifestyle products. It features a clean design, product filtering, and an interactive shopping cart experience. Built entirely with HTML, CSS, and JavaScript, this project demonstrates fundamental front-end development skills without relying on external frameworks or libraries.
 
 The primary goal of this project is to showcase a functional e-commerce front-end, allowing users to browse products, add them to a cart, and simulate a checkout process.
 
