@@ -2,7 +2,7 @@
 
 ![Retail Ridge Hero Section](./assets/screenshot.png)
 
-## 📱 Live Demo
+## 📱 Live Website
 
 [Check out the Live Demo](https://retail-ridge.netlify.app/)
 
